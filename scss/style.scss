@@ -37,7 +37,7 @@ a {
 
 #visual {
     width: 100%;
-    background: hotpink;
+    background: rgb(255, 189, 200);
 
     .inner {
         width: 1180px;
@@ -155,7 +155,7 @@ section {
         li {
             width: 49%;
             height: 80px;
-            background: skyblue;
+            background: rgb(55, 107, 128);
             margin-bottom: 20px;
             opacity: 0;
             transform: rotateY(80deg);

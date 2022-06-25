@@ -2,7 +2,9 @@
   margin: 0;
   padding: 0; }
 
-ul, ol, li {
+ul,
+ol,
+li {
   list-style: none; }
 
 a {
@@ -25,7 +27,7 @@ a {
 
 #visual {
   width: 100%;
-  background: hotpink; }
+  background: #ffbdc8; }
   #visual .inner {
     width: 1180px;
     height: 100vh;
@@ -105,7 +107,7 @@ section {
   #crew ul li {
     width: 49%;
     height: 80px;
-    background: skyblue;
+    background: #376b80;
     margin-bottom: 20px;
     opacity: 0;
     transform: rotateY(80deg);
