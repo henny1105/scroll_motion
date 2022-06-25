@@ -27,7 +27,7 @@ a {
 
 #visual {
   width: 100%;
-  background: #ffbdc8; }
+  background: lightpink; }
   #visual .inner {
     width: 1180px;
     height: 100vh;
@@ -107,7 +107,7 @@ section {
   #crew ul li {
     width: 49%;
     height: 80px;
-    background: #376b80;
+    background: lightseagreen;
     margin-bottom: 20px;
     opacity: 0;
     transform: rotateY(80deg);
